@@ -1,4 +1,0 @@
-numpy
-pandas
-streamlit
-streamlit-aggrid==0.2.2-2
