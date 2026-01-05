@@ -6,8 +6,8 @@ Example machine learning projects in Python with tensorflow and other tools
  - *Enefit Kaggle energy prosumer competition*
  - *t-SNE maps with SAMHSA mental health data*
  - *MNIST handwriting digit recognition*
- - Geometric deep learning
- - regularization neural networks
+ - *Geometric deep learning*
+ - *Regularization neural networks*
 
 **HOW TO USE t-SNE:**
  - https://distill.pub/2016/misread-tsne/
